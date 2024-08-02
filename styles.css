@@ -1,6 +1,6 @@
 div a[href^="https"] {
   background: #ff0000;
 }
-p {
+ul + p {
   font-size: 24px;
 }
